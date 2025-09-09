@@ -326,8 +326,7 @@ Select game, connect, and enjoy!
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-Join_Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/lunex)
-[![Telegram](https://img.shields.io/badge/Telegram-Quick_Support-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lunex)
+[![Discord](https://img.shields.io/badge/Discord-Join_Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://spacie.net/discord)
 [![Website](https://img.shields.io/badge/Website-Documentation-0066CC?style=for-the-badge&logo=web&logoColor=white)](https://spacie.net/lunex)
 
 </div>
